@@ -1,0 +1,50 @@
+.col{
+    height: 608px;
+    width: 19%;
+    border:white 9px solid ;
+    /* background-color: black; */
+    float: left;
+    /* color: white; */
+}
+
+.col:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img{
+    width: 100%;
+    height: 200px;
+    /* border-radius: 120px; */
+}
+h1{
+    text-align: center;
+}
+p{
+    padding: 25px;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: blueviolet;
+    color: white;
+}
+
+button:hover{
+    background-color: rgb(208, 176, 237);
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+/* book gallery
+
+book image
+book name
+author name
+desc
+ */
+
+ /* 6 books */
